@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "001d4149-3a49-4738-ac36-943502dba2f5",
-            "Value": {
-                "id": "aea5c153-f18e-41c2-9cbe-d5b291506bdc",
-                "resourcePath": "objects\\obj_fullScreen\\obj_fullScreen.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "13a89d43-dc45-4e49-a0e1-30a2a2d6ea81",
             "Value": {
                 "id": "235cb83c-8408-44d6-a692-267ee07913b8",
@@ -55,11 +47,27 @@
             }
         },
         {
+            "Key": "2744e7d2-cd12-4376-890e-990189c7165a",
+            "Value": {
+                "id": "d9a5ec01-018d-48da-8d42-c8e5c6080ff9",
+                "resourcePath": "objects\\obj_news\\obj_news.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3b73199c-72b4-434e-9e61-14465cf1bc70",
             "Value": {
                 "id": "68b3557a-7d63-4f99-8fb6-a9a6043b5e5c",
                 "resourcePath": "views\\3b73199c-72b4-434e-9e61-14465cf1bc70.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4ef31dc8-3424-4451-9d55-3f362bf17352",
+            "Value": {
+                "id": "2c6929fc-0658-40c6-8d3f-1948cf78bc31",
+                "resourcePath": "sprites\\spr_loadNews\\spr_loadNews.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -180,6 +188,14 @@
                 "id": "f08a8a6a-ff44-4e76-84e3-debbde628095",
                 "resourcePath": "views\\e30cc919-395d-474c-a4c4-d9d0b158fc9f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e96ee6f0-fe58-43ed-abd0-7eab34a14135",
+            "Value": {
+                "id": "8b2d1e6c-806f-40f9-82f9-6315669a3fff",
+                "resourcePath": "objects\\obj_fullscreen\\obj_fullscreen.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
